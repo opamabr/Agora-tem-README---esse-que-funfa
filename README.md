@@ -1,2 +1,2 @@
-# Agora tem README é esse que funfa
- sou muito burro
+# Sou um mostro no git
+ Confie no coração das cartas
